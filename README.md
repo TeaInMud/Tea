@@ -30,29 +30,6 @@ tea.system : print "Hello, {name}!"
 
 · Python 3.6+
 
-📁 Project Structure
-
-```
-tea/
-├── tea.py
-├── tea_transpiler/
-│   ├── transpiler.py
-│   ├── compiler.py
-│   ├── patterns.py
-│   ├── utils.py
-│   └── handlers/
-│       ├── comments.py
-│       ├── imports.py
-│       ├── print_handler.py
-│       ├── input_handler.py
-│       ├── variables.py
-│       ├── conditions.py
-│       ├── loops.py
-│       └── functions.py
-├── examples/
-└── README.md
-```
-
 📝 License
 
 Proprietary. All rights reserved. See LICENSE.
